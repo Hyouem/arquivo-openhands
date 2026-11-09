@@ -65,7 +65,7 @@
     "sirv-cli": "3.0.1",
     "tailwind-merge": "3.7.0",
     "tailwind-scrollbar": "4.0.2",
-    "unist-util-visit": "5.1.0",
+    "unist-util-visit": "5.2.0",
     "uuid": "14.0.1",
     "vite": "8.3.5",
     "winston": "3.19.0",
